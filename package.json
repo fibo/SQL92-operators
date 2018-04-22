@@ -1,6 +1,6 @@
 {
   "name": "sql92-operators",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "is the list of operators in SQL92 specification",
   "main": "index.json",
   "scripts": {
